@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1606328681 source:/home/enas/Desktop/OS_Projects/OS_Lab3/caltrain-runner.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<time.h>
+	<unistd.h>
+	<pthread.h>
+	"caltrain.h"
+
+1606426050 /home/enas/Desktop/OS_Projects/OS_Lab3/caltrain.h
+	<pthread.h>
+
+1606784018 source:/home/enas/Desktop/OS_Projects/OS_Lab3/caltrain.c
+	<pthread.h>
+	"caltrain.h"
+
+1606328612 source:/home/enas/Desktop/OS_Projects/OS_Lab3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	"caltrain.h"
+
